@@ -25,7 +25,7 @@ const cargarProductos = (product) => {
     <div class="card">
         <h3>${product.nombre}</h3>
         <p class="descripcion">${product.descripcion}</p>
-        <p class="precio">${product.precio}</p>
+        <p class="precio">  ${product.precio}</p>
         <button class="verProducto" id="${product.id}">Ver producto</button>
     </div>
   `;
