@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "codigo": "producto1",
+        "nombre": "Terrex Agravic Flow",
+        "descripcion": "Zapatilla de trail running adidas puede hasta con los caminos más exigentes.",
+        "detalle": "Presenta un diseño ligero y cómodo, y una mediasuela de alto rendimiento que te proporciona la amortiguación que necesitas para correr por senderos lisos y estrechos. La suela con compuesto de caucho Continental™ te brinda una adherencia óptima en terrenos escarpados, secos o mojados, mientras que el refuerzo protector contra rocas y piedras la convierte en la zapatilla perfecta para rutas técnicas.",
+		"imagen": "img/producto_1_zapatillas_adidas_terrex 1.webp",
+		"precio": 60699,
+        "puntuacion": "⭐⭐⭐"
+    },
+    {
+        "id": 2,
+        "codigo": "producto2",
+        "nombre": "Running Ultraboost Light",
+        "descripcion": "Siente una energía increíble con la nueva Ultraboost Light, nuestra Ultraboost más ligera.",
+        "detalle": "La magia está en la mediasuela Light BOOST, una nueva generación de BOOST de adidas. Su exclusivo diseño molecular convierte a la espuma BOOST en la más ligera. Los cientos de cápsulas BOOST liberan una explosión de energía, amortiguación y confort para impulsarte en cada zancada.",
+        "imagen": "img/producto_2_zapatillas_adidas_running 1.webp",
+        "precio": 127999,
+        "puntuacion": "⭐⭐⭐⭐⭐"
+    },
+
+    {
+        "id": 3,
+        "codigo": "producto3",
+        "nombre": "Training Dropset Trainer",
+        "descripcion": "Enfrentate a tus entrenamientos de fuerza en el gimnasio sin pensarlo dos veces.",
+        "detalle": "Esta zapatilla de training adidas te ayuda a mejorar tu nivel. El talón rigido añade estabilidad a tus levantamientos, mientras que el antepié suave proporciona flexibilidad en los ejercicios de agilidad y movilidad. La mediasuela de doble densidad aporta sujeción y comodidad a tu pisada para que nada te distraiga.La parte superior contiene al menos un 50% de materiales reciclados. Su objetivo es plantear otra solución más que ayude a eliminar los residuos plásticos.",
+        "imagen": "img/producto_3_zapatillas_adidas_training 1.webp",
+        "precio": 78699,
+        "puntuacion": "⭐⭐⭐⭐"
+    },
+
+    {
+        "id": 4,
+        "codigo": "producto4",
+        "nombre": "Outdoor Terrex Eastrail",
+        "descripcion": "Explorá cualquier lugar con estas zapatillas de senderismo adidas livianas para uso diario",
+        "detalle": "Los senderos embarrados o rocosos no te detendrán con estas cómodas zapatillas de senderismo. La suela Traxion está diseñada para terrenos irregulares y la malla resistente al desgaste protege tus pies en el campo o al caminar por el bosque.",
+        "imagen": "img/producto_4_zapatillas_adidas_outdoor 1.webp",
+        "precio": 62399,
+        "puntuacion": "⭐⭐⭐⭐"
+    },
+
+    {
+        "id": 5,
+        "codigo": "producto5",
+        "nombre": "Sportswear Breaknet",
+        "descripcion": "Esta zapatilla adidas se inspira en las siluetas clásicas de tenis, pero está pensada para centrar todas las miradas en las calles de la ciudad.",
+        "detalle": "Su diseño minimalista con toques de color te permite combinarla con un pantalón corto, un pantalón chino, un vaquero o lo que se te ocurra. La parte superior contiene al menos un 50% de materiales reciclados. Su objetivo es plantear otra solución más que ayude a eliminar los residuos plásticos.",
+        "imagen": "img/producto_5_zapatillas_adidas_sportswear1.webp",
+        "precio": 39999,
+        "puntuacion": "⭐⭐"
+    },
+
+    {
+        "id": 6,
+        "codigo": "producto6",
+        "nombre": "Moda Run 70s",
+        "descripcion": "Rendí homenaje a los irrepetibles años 70 con estas zapatillas de running adidas.",
+        "detalle": "El exterior de cuero te lleva a la década de los 70, donde la actitud individual y la expresión personal se acabaron imponiendo. Hechas con una serie de materiales reciclados, su exterior incorpora al menos un 50 % de contenido reciclado.",
+        "imagen": "img/producto_6_zapatillas_adidas_moda1.webp",
+        "precio": 50999,
+        "puntuacion": "⭐⭐⭐"
+    }
+
+]
